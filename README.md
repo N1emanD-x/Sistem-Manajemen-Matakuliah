@@ -1,6 +1,6 @@
 # Sistem Manajemen Mata Kuliah
 
-UAS Pemrograman Web II — IF403 PJJ Informatika Universitas Siber Asia
+Tugas Pemrograman Web II — IF403 PJJ Informatika Universitas Siber Asia
 
 ## Deskripsi
 Website sistem manajemen mata kuliah berbasis CodeIgniter 4 dan MySQL yang memiliki fitur CRUD lengkap, validasi form, dan notifikasi sukses/gagal.
